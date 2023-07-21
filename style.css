@@ -108,6 +108,11 @@ main {
   z-index: 2;
 }
 
+.accordion-header:hover {
+  color: var(--soft-red);
+  cursor: pointer;
+}
+
 .question {
   font-weight: 400;
   font-size: 0.85rem;
